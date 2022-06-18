@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Network Automation Engineer
+    company: Network to Code
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: 
+    location: New York
+    date_start: '2020-05-04'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Develop software for network automation workflows
+        * Create CI/CD pipelines
+        * Telemetry
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Assistant Professor of Computer Science
+    company: College of Charleston
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Charleston
+    date_start: '2016-08-30'
+    date_end: '2020-05-03'
+    description: Taught computer security, data structures, and software engineering. Research in network security.
 
 design:
   columns: '2'
