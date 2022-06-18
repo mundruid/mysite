@@ -1,6 +1,5 @@
 ---
 # An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
 # This file represents a page section.
@@ -15,16 +14,25 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
-  # form:
-  #   provider: netlify
-  #   formspree:
-  #     id:
-  #   netlify:
-  #     # Enable CAPTCHA challenge to reduce spam?
-  #     captcha: false
-  
+#   form:
+#     provider: netlify
+#     formspree:
+#       id:
+#     netlify:
+#       # Enable CAPTCHA challenge to reduce spam?
+#       captcha: false
+
+  # Contact details (edit or remove options as required)
+  email: xenia.mountrouidou@gmail.com
+  address:
+    city: Charleston
+    region: SC
+    country: United States
+    country_code: US
+
+
 design:
   columns: '2'
 ---

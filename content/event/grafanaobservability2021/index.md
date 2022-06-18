@@ -1,10 +1,10 @@
 ---
-title: "Security Metrics: Is this even possible?"
+title: "IoT spy: Security metrics for smart devices with Telegraf, InfluxDB, and Grafana"
 
-event: BSides 2019
-event_url: https://www.bsidescharleston.org/
+event: Grafana Observability Con 2021
+event_url: https://grafana.com/about/events/observabilitycon/2021/
 
-location: Charleston, SC
+location: Online
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,17 +12,17 @@ location: Charleston, SC
 #   postcode: '94305'
 #   country: United States
 
-summary: The endless quest for security metrics.
-abstract: In this talk I discuss about the endless search for objective security metrics and the problem of verifying these. I then give an example of Internet of Things security metrics that we have verified experimentally with automation.
+summary: Observability for security metrics of smart devices using Telegraf, InfluxDB, and Grafana.
+abstract: Internet of Things (IoT) devices are ubiquitous, appearing in homes, offices, and public spaces. However, these devices often lack security features due to their fast time to market and insufficient resources for security testing. Network Automation Engineer Xenia Mountrouidou will present a set of novel security metrics based on generic IoT characteristics that relate to security features, and the architecture to collect, visualize, correlate, and alert on them with a Telegraf, InfluxDB, Grafana (TIG) stack. The goal of this architecture is to make IoT security transparent and measurable. The project, which has a testbed of home assistants, web cameras, smart lights and plugs, and phones, provides insight into how IoT devices are acting while we’re not using them. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-01T13:00:00Z"
-date_end: "2019-11-01T15:00:00Z"
+date: "2021-06-01T13:00:00Z"
+date_end: "2021-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-11-01T00:00:00Z"
+publishDate: "2021-06-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -36,8 +36,8 @@ featured: false
 
 links:
 url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/1QnxudP5sAqwQK3yK0t1DXsM7YbB9x6RV/edit?usp=sharing&ouid=108545322802236598515&rtpof=true&sd=true"
-url_video: ""
+url_slides: "https://docs.google.com/presentation/d/199MunnWc3g9UhRyBe3Zmz6VraImR5b5P/edit?usp=sharing&ouid=108545322802236598515&rtpof=true&sd=true"
+url_video: "https://grafana.com/go/observabilitycon/2021/security-metrics-smart-devices/"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

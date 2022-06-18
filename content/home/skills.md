@@ -16,24 +16,24 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
-  icon: python
-  icon_pack: fab
-  name: Python 
-- description: 
-  icon: lock
-  icon_pack: fas
-  name: Network Security
-- description: 
-  icon: chart-line
-  icon_pack: fas
-  name: Machine Learning
+    - description: 
+      icon: python
+      icon_pack: fab
+      name: Python 
+    - description: 
+      icon: lock
+      icon_pack: fas
+      name: Network Security
+    - description: 
+      icon: chart-line
+      icon_pack: fas
+      name: Machine Learning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#  description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.

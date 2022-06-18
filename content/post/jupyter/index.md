@@ -1,19 +1,19 @@
 ---
-title: Introduction to Pandas for Network Development
-subtitle: Blog Introduction to Pandas for Network Development.
+title: Jupyter Notebooks for Development 
+subtitle: Blog Jupyter Notebooks for Development.
 
 # Summary for listings and search engines
-summary: Intro to Pandas library and how you can use it for network traffic data analysis. You can read this post in the <a href="https://blog.networktocode.com/post/introduction-to-pandas-for-network-development/" target="_blank">NTC Blog Introduction to Pandas for Network Development</a>
+summary: In this blog I explain how you can use Jupyter notebooks with Poetry package management for Python. You can read this post in the <a href="https://blog.networktocode.com/post/jupyter-notebooks-for-development/" target="_blank">Jupyter Notebooks for Development</a>
 # [NTC Blog Introduction to Pandas for Network Development](https://blog.networktocode.com/post/introduction-to-pandas-for-network-development/)[newtab].
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2021-05-13T00:00:00Z"
+date: "2021-11-13T00:00:00Z"
 
 # Date updated
-lastmod: "2021-05-13T00:00:00Z"
+lastmod: "2021-11-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -34,10 +34,8 @@ authors:
 - Xenia Mountrouidou
 
 tags:
-- Pandas
-- Network
-- Traffic
-- Data Analytics
+- Jupyter
+- Poetry
 
 categories:
 - Blog

@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Network Security
-    tag: Network Security
-  - name: Telemetry
-    tag: Telemetry
-  # - name: Machine Learning
-  #   tag: Machine Learning
+    - name: Network Security
+      tag: Network Security
+    - name: Telemetry
+      tag: Telemetry
+    - name: Machine Learning
+      tag: Machine Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
