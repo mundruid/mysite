@@ -1,10 +1,10 @@
 ---
-title: "Security Metrics: Is this even possible?"
+title: Testing your Python Code 
 
-event: BSides 2019
-event_url: https://www.bsidescharleston.org/
+event: Interop 2020
+event_url: https://www.interop.com/g
 
-location: Charleston, SC
+location: Virtual Event
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,13 +12,14 @@ location: Charleston, SC
 #   postcode: '94305'
 #   country: United States
 
-summary: The endless quest for security metrics.
-abstract: In this talk I discuss about the endless search for objective security metrics and the problem of verifying these. I then give an example of Internet of Things security metrics that we have verified experimentally with automation.
+summary: Types of testing and their application to Network Automation.
+abstract: "
+Have you ever written hundreds of lines of Python network automation code only to find out that it does not work as expected? Have you had bugs in your programs that could have been found, if only you had tested for them? In this talk, we will present different types of testing such as unit, system, and integration testing, and how you can integrate these in your current network automation programming workflow. We will introduce mock Python objects that simulate network functions, fixtures, and best practices for comprehensive testing of API requests and network devices. The talk will include coding samples and templates, offering you the tools to start testing your Python code immediately."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-01T13:00:00Z"
-date_end: "2019-11-01T15:00:00Z"
+date: "2020-11-01T13:00:00Z"
+date_end: "2020-11-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,9 +36,14 @@ featured: false
 #   focal_point: Right
 
 links:
+- icon: github
+  icon_pack: fab
+  name: Github
+  url: https://github.com/mundruid/Code_Interop2020
+# url_code: "https://github.com/mundruid/Code_Interop2020"
 url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/1QnxudP5sAqwQK3yK0t1DXsM7YbB9x6RV/edit?usp=sharing&ouid=108545322802236598515&rtpof=true&sd=true"
-url_video: ""
+url_slides: ""
+url_video: "https://www.youtube.com/watch?v=NualUuCeGwI"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -54,15 +60,3 @@ url_video: ""
 # projects:
 # - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
