@@ -22,13 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Security Researcher
+    company: Cyber adAPT
+    company_url: 'https://www.cyberadapt.com/'
+    company_logo: 
+    location: Texas
+    date_start: '2022-08-15'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Research in Network Security and IoT
+        * Development of machine learning PoCs with security applications 
+        * Research in intrusion detection
   - title: Senior Consultant 
     company: Network to Code
     company_url: ''
     company_logo: 
     location: New York
     date_start: '2020-05-04'
-    date_end: ''
+    date_end: '2022-08-14'
     description: |2-
         Responsibilities include:
         
