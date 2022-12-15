@@ -2,16 +2,10 @@
 .idea/
 
 # Hugo
-<<<<<<< HEAD
-/resources/
-jsconfig.json
-node_modules/
 .vscode/
-=======
 resources/
 public/
 jsconfig.json
 node_modules/
 go.sum
 .hugo_build.lock
->>>>>>> upstream/main

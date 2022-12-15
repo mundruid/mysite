@@ -37,7 +37,7 @@ featured: false
 
 links:
 url_pdf: ""
-url_slides: ""
+url_slides: "https://docs.google.com/presentation/d/1i-VrjXpJxHcZtxUef2ZeZumtzgAVo3aBzstnw9megmk/edit?usp=sharing"
 url_video: ""
 
 # Markdown Slides (optional).
