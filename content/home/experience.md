@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Security Researcher
-    company: CyberadAPT
+    company: Cyber adAPT
     company_url: 'https://www.cyberadapt.com/'
     company_logo: 
     location: Texas

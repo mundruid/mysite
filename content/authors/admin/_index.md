@@ -16,11 +16,11 @@ role: Senior Security Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CyberadAPT
+  - name: Cyber adAPT
     url: https://www.cyberadapt.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xenia Mountrouidou is a Senior Security Researcher at CyberadAPT with a versatile experience in academia and industry. She has over 10 years of research experience in network security, machine learning, and data analytics for computer networks. She enjoys writing Python scripts to automate the boring things, finding interesting patterns with machine learning algorithms, and researching novel  detection techniques. Her research interests revolve around network security, Internet of Things, intrusion detection, and machine learning. 
+bio: Xenia Mountrouidou is a Senior Security Researcher at Cyber adAPT with a versatile experience in academia and industry. She has over 10 years of research experience in network security, machine learning, and data analytics for computer networks. She enjoys writing Python scripts to automate the boring things, finding interesting patterns with machine learning algorithms, and researching novel  detection techniques. Her research interests revolve around network security, Internet of Things, intrusion detection, and machine learning. 
 
 
 # Interests to show in About widget
@@ -67,7 +67,7 @@ email: "xenia.mountrouidou@gmail.com"
 highlight_name: true
 ---
 
-Xenia Mountrouidou is a Senior Security Researcher at CyberadAPT with a versatile experience in academia and industry. She has over 10 years of research experience in network security, machine learning, and data analytics for computer networks. She enjoys writing Python scripts to automate the boring things, finding interesting patterns with machine learning algorithms, and researching novel intrusion detection techniques. Her research interests revolve around network security, Internet of Things, intrusion detection, and machine learning.
+Xenia Mountrouidou is a Senior Security Researcher at Cyber adAPT with a versatile experience in academia and industry. She has over 10 years of research experience in network security, machine learning, and data analytics for computer networks. She enjoys writing Python scripts to automate the boring things, finding interesting patterns with machine learning algorithms, and researching novel intrusion detection techniques. Her research interests revolve around network security, Internet of Things, intrusion detection, and machine learning.
 
 She has authored scholarly papers in the areas of performance modeling, computer networks, embedded computer architectures, and computer network security. She has presented her work in academic and industry conferences such as USENIX Security, IEEE Big Data, BSides Security, and Interop.
 
