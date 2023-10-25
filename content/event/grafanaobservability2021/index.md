@@ -38,6 +38,7 @@ links:
 url_pdf: ""
 url_slides: "https://docs.google.com/presentation/d/199MunnWc3g9UhRyBe3Zmz6VraImR5b5P/edit?usp=sharing&ouid=108545322802236598515&rtpof=true&sd=true"
 url_video: "https://grafana.com/go/observabilitycon/2021/security-metrics-smart-devices/"
+url_code: "https://github.com/mundruid/iot_spy"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
